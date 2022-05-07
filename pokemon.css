@@ -1,0 +1,19 @@
+.pokeball {
+    height: 120px;
+    width: 120px;
+}
+.logopokemon{
+    height: 120px;
+}
+
+.carta {
+    background-image: url(/Imagen10.png);
+    background-repeat: no-repeat;
+}
+
+.ahs{
+    width: 200px;
+    margin-left: 530px;
+    margin-top: 10px;
+    
+}
